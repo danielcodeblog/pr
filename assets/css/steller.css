@@ -476,7 +476,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #6c957d;
 }
 
 .blockquote-footer::before {
@@ -490,7 +490,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #f5f;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
